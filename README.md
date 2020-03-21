@@ -50,5 +50,8 @@ Bonjour les amis,comment ça se passe vos journée avec se confinement?
 Pour moi, les journées passe vite et bien.
 J'aimerais savoir, comment ça va se passé au bout deux semaines de confinement la réaction les gens?
 coucou, est ce que tout le monde est là?
-var i=0;
+var i=2;
+var j=1;
+alerte(i+j);
+
 
