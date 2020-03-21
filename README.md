@@ -56,5 +56,6 @@ alerte(i+j);
 alerte(i*j);
 Bonjour à tous
 Comment allez vous ?
+Je n'ai pas de reponse, ça va tout le monde ?
 
 
