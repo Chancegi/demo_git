@@ -46,5 +46,5 @@ je suis ravi de mon travail
     <body>
     	<p> bonjour. vous souhaitez visiter<a href="https://OpenClassrooms.com"></a> ? <b /> c'est un bon site ;o)</p>
 
-
+Bonjour les amis,comment ça se passe vos journée avec se confinement?
 
