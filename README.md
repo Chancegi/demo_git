@@ -48,4 +48,5 @@ je suis ravi de mon travail
 
 Bonjour les amis,comment ça se passe vos journée avec se confinement?
 Pour moi, les journée vite et bien.
+J'aimerais savoir, comment ça va se passé au bout deux semaines de confinement la réaction les gens?
 
