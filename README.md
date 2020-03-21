@@ -47,6 +47,6 @@ je suis ravi de mon travail
     	<p> bonjour. vous souhaitez visiter<a href="https://OpenClassrooms.com"></a> ? <b /> c'est un bon site ;o)</p>
 
 Bonjour les amis,comment ça se passe vos journée avec se confinement?
-Pour moi, les journée vite et bien.
+Pour moi, les journée passe vite et bien.
 J'aimerais savoir, comment ça va se passé au bout deux semaines de confinement la réaction les gens?
 
