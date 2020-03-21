@@ -55,5 +55,6 @@ var j=1;
 alerte(i+j);
 alerte(i*j);
 Bonjour à tous
+Comment allez vous ?
 
 
