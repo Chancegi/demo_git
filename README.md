@@ -53,5 +53,6 @@ coucou, est ce que tout le monde est là?
 var i=2;
 var j=1;
 alerte(i+j);
+alerte(i*j);
 
 
